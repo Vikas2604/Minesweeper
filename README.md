@@ -33,7 +33,7 @@ To run this Minesweeper game locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/minesweeper-game.git
+   git clone https://github.com/Vikas2604/minesweeper-game.git
 2. Navigate to the project folder:
    ```bash
    cd minesweeper-game
