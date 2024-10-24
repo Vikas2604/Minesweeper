@@ -36,7 +36,7 @@ To run this Minesweeper game locally:
    git clone https://github.com/Vikas2604/minesweeper-game.git
 2. Navigate to the project folder:
    ```bash
-   cd minesweeper-game
+   cd minesweeper
 3. Open index.html in your web browser to play the game.
 
 ## Project Structure
